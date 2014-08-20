@@ -1,0 +1,6 @@
+name: DeathNoise
+main : com.samistine.deathnoise.Main
+version: 1
+description: Play an effect when a player gits killed by another player
+author: Samistine
+prefix: DeathNoise By Samistine
